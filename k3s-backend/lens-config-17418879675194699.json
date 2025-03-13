@@ -1,0 +1,14 @@
+{
+  "preferences": {
+    "theme": "dark",
+    "fontSize": 12
+  },
+  "clusters": [
+    {
+      "name": "k3s",
+      "kubeconfig": "/kubeconfig.yaml"
+    }
+  ],
+  "extensions": [],
+  "ts": []
+}
